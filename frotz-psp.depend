@@ -1,0 +1,451 @@
+# depslib dependency file v1.0
+1035600894 source:c:\data\projects\frotz-psp\src\common\buffer.c
+	"frotz.h"
+
+1035692732 c:\data\projects\frotz-psp\src\common\frotz.h
+	<signal.h>
+	<stdio.h>
+	"setup.h"
+
+1035673533 c:\data\projects\frotz-psp\src\common\setup.h
+
+1027473420 source:c:\data\projects\frotz-psp\src\common\err.c
+	"frotz.h"
+
+1259370026 source:c:\data\projects\frotz-psp\src\common\fastmem.c
+	<stdio.h>
+	<string.h>
+	"frotz.h"
+	<alloc.h>
+	<stdlib.h>
+
+1028633941 source:c:\data\projects\frotz-psp\src\common\files.c
+	<stdio.h>
+	<string.h>
+	"frotz.h"
+
+1240713391 source:c:\data\projects\frotz-psp\src\common\getopt.c
+	<stdio.h>
+	<string.h>
+
+1027471086 source:c:\data\projects\frotz-psp\src\common\hotkey.c
+	"frotz.h"
+
+1027291452 source:c:\data\projects\frotz-psp\src\common\input.c
+	"frotz.h"
+
+1240712823 source:c:\data\projects\frotz-psp\src\common\main.c
+	"frotz.h"
+
+963584240 source:c:\data\projects\frotz-psp\src\common\math.c
+	"frotz.h"
+
+1028124156 source:c:\data\projects\frotz-psp\src\common\object.c
+	"frotz.h"
+
+1027472600 source:c:\data\projects\frotz-psp\src\common\process.c
+	"frotz.h"
+	"djfrotz.h"
+
+1259090675 source:c:\data\projects\frotz-psp\src\common\quetzal.c
+	<stdio.h>
+	<string.h>
+	"frotz.h"
+	<alloc.h>
+	<stdlib.h>
+
+972133565 source:c:\data\projects\frotz-psp\src\common\random.c
+	"frotz.h"
+
+972133599 source:c:\data\projects\frotz-psp\src\common\redirect.c
+	"frotz.h"
+
+1027471496 source:c:\data\projects\frotz-psp\src\common\screen.c
+	"frotz.h"
+
+1027294199 source:c:\data\projects\frotz-psp\src\common\sound.c
+	"frotz.h"
+	"djfrotz.h"
+
+963584256 source:c:\data\projects\frotz-psp\src\common\stream.c
+	"frotz.h"
+
+963584256 source:c:\data\projects\frotz-psp\src\common\table.c
+	"frotz.h"
+
+1032147842 source:c:\data\projects\frotz-psp\src\common\text.c
+	"frotz.h"
+
+963584258 source:c:\data\projects\frotz-psp\src\common\variable.c
+	"frotz.h"
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\main.c
+	<pspkernel.h>
+	<pspdebug.h>
+	<pspiofilemgr.h>
+	<psppower.h>
+	"psp_frotz.h"
+	"pspetext.h"
+	"basecon.h"
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\psp_init.c
+	"psp_frotz.h"
+	"basecon.h"
+	"pspetext.h"
+	<pspthreadman.h>
+	<stdio.h>
+	<stdarg.h>
+
+1260139555 c:\data\projects\frotz-psp\src\psp\psp_frotz.h
+	"../common/frotz.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<psptypes.h>
+	<pspctrl.h>
+
+1260139802 source:c:\data\projects\frotz-psp\src\psp\psp_input.c
+	"psp_frotz.h"
+	<pspctrl.h>
+	"basecon.h"
+	"input.h"
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\psp_mainui.c
+	"psp_frotz.h"
+	"pspetext.h"
+	"basecon.h"
+	"input.h"
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\psp_os_output.c
+	"psp_frotz.h"
+	"basecon.h"
+
+1260139617 source:c:\data\projects\frotz-psp\src\psp\psp_output.c
+	"psp_frotz.h"
+	"basecon.h"
+
+1035600894 source:d:\qbradq\frotz-psp\src\common\buffer.c
+	"frotz.h"
+
+1035692732 d:\qbradq\frotz-psp\src\common\frotz.h
+	<signal.h>
+	<stdio.h>
+	"setup.h"
+
+1035673533 d:\qbradq\frotz-psp\src\common\setup.h
+
+1027473420 source:d:\qbradq\frotz-psp\src\common\err.c
+	"frotz.h"
+
+1259370026 source:d:\qbradq\frotz-psp\src\common\fastmem.c
+	<stdio.h>
+	<string.h>
+	"frotz.h"
+	<alloc.h>
+	<stdlib.h>
+
+1028633941 source:d:\qbradq\frotz-psp\src\common\files.c
+	<stdio.h>
+	<string.h>
+	"frotz.h"
+
+1240713391 source:d:\qbradq\frotz-psp\src\common\getopt.c
+	<stdio.h>
+	<string.h>
+
+1027471086 source:d:\qbradq\frotz-psp\src\common\hotkey.c
+	"frotz.h"
+
+1027291452 source:d:\qbradq\frotz-psp\src\common\input.c
+	"frotz.h"
+
+1240712823 source:d:\qbradq\frotz-psp\src\common\main.c
+	"frotz.h"
+
+963584240 source:d:\qbradq\frotz-psp\src\common\math.c
+	"frotz.h"
+
+1028124156 source:d:\qbradq\frotz-psp\src\common\object.c
+	"frotz.h"
+
+1027472600 source:d:\qbradq\frotz-psp\src\common\process.c
+	"frotz.h"
+	"djfrotz.h"
+
+1259090675 source:d:\qbradq\frotz-psp\src\common\quetzal.c
+	<stdio.h>
+	<string.h>
+	"frotz.h"
+	<alloc.h>
+	<stdlib.h>
+
+972133565 source:d:\qbradq\frotz-psp\src\common\random.c
+	"frotz.h"
+
+972133599 source:d:\qbradq\frotz-psp\src\common\redirect.c
+	"frotz.h"
+
+1027471496 source:d:\qbradq\frotz-psp\src\common\screen.c
+	"frotz.h"
+
+1027294199 source:d:\qbradq\frotz-psp\src\common\sound.c
+	"frotz.h"
+	"djfrotz.h"
+
+963584256 source:d:\qbradq\frotz-psp\src\common\stream.c
+	"frotz.h"
+
+963584256 source:d:\qbradq\frotz-psp\src\common\table.c
+	"frotz.h"
+
+1032147842 source:d:\qbradq\frotz-psp\src\common\text.c
+	"frotz.h"
+
+963584258 source:d:\qbradq\frotz-psp\src\common\variable.c
+	"frotz.h"
+
+1259369977 source:d:\qbradq\frotz-psp\src\psp\main.c
+	<pspkernel.h>
+	<pspdebug.h>
+	<pspiofilemgr.h>
+	<psppower.h>
+	"psp_frotz.h"
+	"pspetext.h"
+	"basecon.h"
+
+1259255210 source:d:\qbradq\frotz-psp\src\psp\psp_init.c
+	"psp_frotz.h"
+	"basecon.h"
+	"pspetext.h"
+	<pspthreadman.h>
+	<stdio.h>
+	<stdarg.h>
+
+1259255721 d:\qbradq\frotz-psp\src\psp\psp_frotz.h
+	"../common/frotz.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<psptypes.h>
+	<pspctrl.h>
+
+1259192361 source:d:\qbradq\frotz-psp\src\psp\psp_input.c
+	"psp_frotz.h"
+	<pspctrl.h>
+	"basecon.h"
+	"input.h"
+
+1259255876 source:d:\qbradq\frotz-psp\src\psp\psp_mainui.c
+	"psp_frotz.h"
+	"pspetext.h"
+	"basecon.h"
+	"input.h"
+
+1259253841 source:d:\qbradq\frotz-psp\src\psp\psp_os_output.c
+	"psp_frotz.h"
+	"basecon.h"
+
+1259254377 source:d:\qbradq\frotz-psp\src\psp\psp_output.c
+	"psp_frotz.h"
+	"basecon.h"
+
+1259252090 source:d:\qbradq\frotz-psp\src\psp\basecon.c
+	"basecon.h"
+	"font.h"
+	<pspkernel.h>
+	<pspdisplay.h>
+	<stdio.h>
+
+1258938467 d:\qbradq\frotz-psp\src\psp\basecon.h
+	<psptypes.h>
+
+1259206429 d:\qbradq\frotz-psp\src\psp\font.h
+	<psptypes.h>
+
+1259206422 source:d:\qbradq\frotz-psp\src\psp\font.c
+	"font.h"
+	"font6x8.xbm"
+	"font8x12.xbm"
+
+1258944863 d:\qbradq\frotz-psp\src\psp\font8x12.xbm
+
+1259109568 source:d:\qbradq\frotz-psp\src\psp\input.c
+	"input.h"
+	<pspctrl.h>
+	<psptypes.h>
+	<pspthreadman.h>
+
+1259122639 d:\qbradq\frotz-psp\src\psp\input.h
+
+1259032385 source:d:\qbradq\frotz-psp\src\psp\psp_keybox.c
+	"psp_frotz.h"
+	"basecon.h"
+	"input.h"
+
+1259033145 source:d:\qbradq\frotz-psp\src\psp\psp_quicktext.c
+	"psp_frotz.h"
+	"basecon.h"
+	"input.h"
+
+1259083958 source:d:\qbradq\frotz-psp\src\psp\debug.c
+	<pspiofilemgr.h>
+	<stdio.h>
+	<stdarg.h>
+	"debug.h"
+
+1259083246 d:\qbradq\frotz-psp\src\psp\debug.h
+	<string.h>
+
+1259192166 source:d:\qbradq\frotz-psp\src\psp\psp_history.c
+	"psp_frotz.h"
+
+1259262269 source:d:\qbradq\frotz-psp\src\psp\psp_screenbuf.c
+	"psp_frotz.h"
+	"input.h"
+	<stdlib.h>
+
+1259261555 source:d:\qbradq\frotz-psp\src\psp\pet_common.c
+	<pspthreadman.h>
+	"pspetext.h"
+	"basecon.h"
+	"input.h"
+
+1259206162 d:\qbradq\frotz-psp\src\psp\pspetext.h
+	<psptypes.h>
+	<pspiofilemgr.h>
+
+1259209099 source:d:\qbradq\frotz-psp\src\psp\pet_fileutil.c
+	"basecon.h"
+	"debug.h"
+	"pspetext.h"
+
+1259249722 source:d:\qbradq\frotz-psp\src\psp\pet_getfile.c
+	<stdio.h>
+	<string.h>
+	"pspetext.h"
+	"basecon.h"
+	"input.h"
+
+1259206009 source:d:\qbradq\frotz-psp\src\psp\pspetext.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<pspthreadman.h>
+	"basecon.h"
+	"debug.h"
+	"input.h"
+	"pspetext.h"
+	"font.h"
+
+1259255312 source:d:\qbradq\frotz-psp\src\psp\pet_filebuf.c
+	"debug.h"
+	"pspetext.h"
+	<pspiofilemgr_fcntl.h>
+	<stdlib.h>
+
+1259255258 source:d:\qbradq\frotz-psp\src\psp\pet_main.c
+	<stdio.h>
+	<pspthreadman.h>
+	"basecon.h"
+	"debug.h"
+	"input.h"
+	"pspetext.h"
+
+1259206398 d:\qbradq\frotz-psp\src\psp\font6x8.xbm
+
+1259338450 d:\qbradq\frotz-psp\src\psp\libc\stdio.h
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\basecon.c
+	"basecon.h"
+	"font.h"
+	<pspkernel.h>
+	<pspdisplay.h>
+	<stdio.h>
+
+1260139555 c:\data\projects\frotz-psp\src\psp\basecon.h
+	<psptypes.h>
+
+1260139555 c:\data\projects\frotz-psp\src\psp\font.h
+	<psptypes.h>
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\debug.c
+	<pspiofilemgr.h>
+	<stdio.h>
+	<stdarg.h>
+	"debug.h"
+
+1260139555 c:\data\projects\frotz-psp\src\psp\debug.h
+	<string.h>
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\font.c
+	"font.h"
+	"font6x8.xbm"
+	"font8x12.xbm"
+
+1259206398 c:\data\projects\frotz-psp\src\psp\font6x8.xbm
+
+1258944863 c:\data\projects\frotz-psp\src\psp\font8x12.xbm
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\input.c
+	"input.h"
+	<pspctrl.h>
+	<psptypes.h>
+	<pspthreadman.h>
+
+1260139555 c:\data\projects\frotz-psp\src\psp\input.h
+
+1260139551 c:\data\projects\frotz-psp\src\psp\pspetext.h
+	<psptypes.h>
+	<pspiofilemgr.h>
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\pet_common.c
+	<pspthreadman.h>
+	"pspetext.h"
+	"basecon.h"
+	"input.h"
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\pet_filebuf.c
+	"debug.h"
+	"pspetext.h"
+	<pspiofilemgr_fcntl.h>
+	<stdlib.h>
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\pet_getfile.c
+	<stdio.h>
+	<string.h>
+	"pspetext.h"
+	"basecon.h"
+	"input.h"
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\pet_main.c
+	<stdio.h>
+	<pspthreadman.h>
+	"basecon.h"
+	"debug.h"
+	"input.h"
+	"pspetext.h"
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\psp_history.c
+	"psp_frotz.h"
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\psp_keybox.c
+	"psp_frotz.h"
+	"basecon.h"
+	"input.h"
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\psp_quicktext.c
+	"psp_frotz.h"
+	"basecon.h"
+	"input.h"
+
+1260139555 source:c:\data\projects\frotz-psp\src\psp\psp_screenbuf.c
+	"psp_frotz.h"
+	"input.h"
+	<stdlib.h>
+
